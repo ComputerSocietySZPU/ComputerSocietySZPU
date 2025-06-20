@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1185px" height="569px" viewBox="0 0 1185 569" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Table</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="46" height="267"></rect>
+        <linearGradient x1="50%" y1="4.71306861%" x2="50%" y2="125.104605%" id="linearGradient-3">
+            <stop stop-color="#C861FA" offset="0%"></stop>
+            <stop stop-color="#5D81EB" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="50" height="310"></rect>
+        <rect id="path-6" x="0" y="0" width="58" height="342"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="225.975533%" id="linearGradient-8">
+            <stop stop-color="#5A5A5A" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Table">
+            <g id="Rectangle" transform="translate(32.000000, 157.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <polygon fill="url(#linearGradient-3)" style="mix-blend-mode: lighten;" mask="url(#mask-2)" points="1 11 101 55.5029964 101 199.496986 1 244"></polygon>
+            </g>
+            <g id="Rectangle" transform="translate(88.000000, 138.000000)">
+                <mask id="mask-5" fill="white">
+                    <use xlink:href="#path-4"></use>
+                </mask>
+                <g id="Mask"></g>
+                <polygon fill="url(#linearGradient-3)" style="mix-blend-mode: lighten;" mask="url(#mask-5)" points="0 8 120 60.5249958 120 230.474983 0 283"></polygon>
+            </g>
+            <g id="Rectangle" transform="translate(148.000000, 113.000000)">
+                <mask id="mask-7" fill="white">
+                    <use xlink:href="#path-6"></use>
+                </mask>
+                <use id="Mask" fill-opacity="0" fill="#D8D8D8" xlink:href="#path-6"></use>
+                <polygon fill="url(#linearGradient-3)" style="mix-blend-mode: lighten;" mask="url(#mask-7)" points="0 13 138 74.1199951 138 271.87998 0 333"></polygon>
+            </g>
+            <polygon id="Rectangle" fill="url(#linearGradient-3)" style="mix-blend-mode: lighten;" points="216 103 374 172.332994 374 396.666978 216 466"></polygon>
+            <text id="计算机学会" fill="url(#linearGradient-8)" font-family="PingFangSC-Regular, PingFang SC" font-size="125" font-weight="normal" letter-spacing="12.5">
+                <tspan x="468" y="321">计算机学</tspan>
+                <tspan x="1018" y="321">会</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
